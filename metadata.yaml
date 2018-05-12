@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '37486'
     url: http://www.gutenberg.org/2009/agents/37486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35136#Pilgrim-TrailsA-Plymouth-to-Provincetown-Sketchbook
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
 identifiers:
