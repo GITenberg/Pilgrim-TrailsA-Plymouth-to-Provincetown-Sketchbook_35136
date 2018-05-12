@@ -1,0 +1,39 @@
+_repo: Pilgrim-TrailsA-Plymouth-to-Provincetown-Sketchbook_35136
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: White, C. Scott (Clarence Scott)
+    aliases:
+    - White, Clarence Scott
+    - White, Scott
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '37487'
+    url: http://www.gutenberg.org/2009/agents/37487
+covers:
+- cover_type: archival
+  image_path: 35136-h/images/01cover.jpg
+creator:
+  author:
+    agent_name: Warner, Frances Lester
+    aliases:
+    - Hersey, Frances
+    - Lester Warner, Frances
+    birthdate: 1888
+    gutenberg_agent_id: '37486'
+    url: http://www.gutenberg.org/2009/agents/37486
+description: ''
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35136'
+  lccn: '21011176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- Description and travel'
+- !lcc 'F001'
+title: 'Pilgrim Trails: A Plymouth-to-Provincetown Sketchbook'
+url: http://www.gutenberg.org/ebooks/35136
